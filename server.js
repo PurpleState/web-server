@@ -35,3 +35,4 @@ app.listen(PORT,function(){
 
 //using Git : git add .
 // git commit -a -m "Adding comments"
+//.gitignore keeps folders not to be added to git
